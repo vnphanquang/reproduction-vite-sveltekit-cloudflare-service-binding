@@ -1,0 +1,9 @@
+{
+  "name": "sveltekit",
+  "services": [
+    {
+      "binding": "worker",
+      "service": "worker",
+    },
+  ],
+}
